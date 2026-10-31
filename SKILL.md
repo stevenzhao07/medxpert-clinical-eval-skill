@@ -86,13 +86,9 @@ description: 医疗器械临床评价路径判定与报告框架。输入产品�
 ```
 medxpert-clinical-eval-skill/
 ├── SKILL.md
-├── references/
-│   ├── path-decision.md            ← 临床路径判定（免临床/比对/试验）
-│   ├── cer-framework.md            ← CER报告结构框架
-│   └── equivalence-checklist.md    ← 同品种比对自查清单
-└── assets/
-    └── examples/
-        └── example-clinical-path.md  ← 完整临床路径判定示例
+└── references/
+    ├── path-decision.md            ← 临床路径判定（免临床/比对/试验）
+    └── cer-framework.md            ← CER报告结构框架
 ```
 
 ---
